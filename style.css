@@ -1,0 +1,28 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+h1, h2 {
+  color: #0057b8;
+}
+
+main {
+  padding: 20px;
+}
+
+form {
+  margin-top: 15px;
+}
+
+input[type="text"],
+input[type="email"] {
+  padding: 8px;
+  margin-bottom: 10px;
+  width: 250px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #e0e0e0;
+}
